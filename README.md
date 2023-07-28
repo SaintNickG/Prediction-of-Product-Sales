@@ -1,5 +1,5 @@
 # Prediction-of-Product-Sales
-"_" Author- Nicholas Giuffrida
+## "_" Author- Nicholas Giuffrida
 ## Project Overview
 ## Load and Inspect Data
 in[]:
